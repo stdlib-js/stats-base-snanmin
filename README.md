@@ -176,6 +176,25 @@ console.log( v );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dnanmin`][@stdlib/stats/base/dnanmin]: calculate the minimum value of a double-precision floating-point strided array, ignoring NaN values.
+-   [`@stdlib/stats/base/nanmin`][@stdlib/stats/base/nanmin]: calculate the minimum value of a strided array, ignoring NaN values.
+-   [`@stdlib/stats/base/smin`][@stdlib/stats/base/smin]: calculate the minimum value of a single-precision floating-point strided array.
+-   [`@stdlib/stats/base/snanmax`][@stdlib/stats/base/snanmax]: calculate the maximum value of a single-precision floating-point strided array, ignoring NaN values.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -234,6 +253,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float32]: https://github.com/stdlib-js/array-float32
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dnanmin]: https://github.com/stdlib-js/stats-base-dnanmin
+
+[@stdlib/stats/base/nanmin]: https://github.com/stdlib-js/stats-base-nanmin
+
+[@stdlib/stats/base/smin]: https://github.com/stdlib-js/stats-base-smin
+
+[@stdlib/stats/base/snanmax]: https://github.com/stdlib-js/stats-base-snanmax
+
+<!-- </related-links> -->
 
 </section>
 
