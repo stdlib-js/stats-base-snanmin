@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-27)
+## Unreleased (2024-12-28)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b16b1fe`](https://github.com/stdlib-js/stdlib/commit/b16b1fe5d9d39b7d297d753acdc201160bc5118f) - **chore:** add missing `@private` in benchmarks of `stats/base/*` [(#4306)](https://github.com/stdlib-js/stdlib/pull/4306) _(by Aayush Khanna)_
 -   [`9f86bc6`](https://github.com/stdlib-js/stdlib/commit/9f86bc619db065369ef877eced46cfd709784aba) - **feat:** add C ndarray interface and refactor implementation for `stats/base/snanmin` [(#4292)](https://github.com/stdlib-js/stdlib/pull/4292) _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
